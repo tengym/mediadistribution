@@ -1,0 +1,6 @@
+Name: Jrtplib 
+Description: A full featured RTP library
+Requires:
+Version: 3.9.1
+Libs:  /home/tengym/ts_over_ip/MediaDistribution/common/lib/libjrtp.so /home/tengym/ts_over_ip/MediaDistribution/common/lib/libjthread.so -lpthread
+Cflags:  -I/home/tengym/ts_over_ip/MediaDistribution/common/include

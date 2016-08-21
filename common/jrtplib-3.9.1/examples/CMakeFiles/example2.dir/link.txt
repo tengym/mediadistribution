@@ -1,0 +1,1 @@
+arm-hisiv200-linux-g++      CMakeFiles/example2.dir/example2.cpp.o  -o example2 -rdynamic ../src/libjrtp.a /home/tengym/ts_over_ip/MediaDistribution/common/lib/libjthread.so -lpthread -Wl,-rpath,/home/tengym/ts_over_ip/MediaDistribution/common/lib 

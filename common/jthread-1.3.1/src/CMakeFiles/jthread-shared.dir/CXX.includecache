@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tengym/ts_over_ip/MediaDistribution/common/jthread-1.3.1/src/pthread/jmutex.cpp
+jmutex.h
+/home/tengym/ts_over_ip/MediaDistribution/common/jthread-1.3.1/src/pthread/jmutex.h
+
+/home/tengym/ts_over_ip/MediaDistribution/common/jthread-1.3.1/src/pthread/jthread.cpp
+jthread.h
+/home/tengym/ts_over_ip/MediaDistribution/common/jthread-1.3.1/src/pthread/jthread.h
+sys/time.h
+-
+time.h
+-
+stdlib.h
+-
+
+src/jmutex.h
+jthreadconfig.h
+src/jthreadconfig.h
+process.h
+-
+winsock2.h
+-
+windows.h
+-
+pthread.h
+-
+
+src/jthread.h
+jthreadconfig.h
+src/jthreadconfig.h
+jmutex.h
+src/jmutex.h
+
+src/jthreadconfig.h
+

@@ -1,0 +1,15 @@
+
+make all:
+	Will install common, udp, rtp.
+
+make clean:
+	Will uninstall common, udp, rtp.
+
+make xxxx_install
+	The xxxx can be common, udp, udp_unicast, udp_multicast, rtp, rtp_unicast, or rtp_multicast 
+	install them respectively.
+
+make xxxx_uninstall
+	The xxxx can be common, udp, udp_unicast, udp_multicast, rtp, rtp_unicast, or rtp_multicast 
+	uninstall them respectively.
+
